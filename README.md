@@ -1,1 +1,1 @@
-https://app.netlify.com/sites/happy-hugle-f7c90d/overview
+https://happy-hugle-f7c90d.netlify.app/
